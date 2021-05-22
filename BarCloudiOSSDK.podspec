@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-    s.name              = 'BarCloudSDK'
+    s.name              = 'BarCloudiOSSDK'
     s.version           = '1.0.0'
-    s.summary           = 'BarCloudSD: Barcode Scanning Software and Technology Solutions'
+    s.summary           = 'BarCloudiOSSDK: Barcode Scanning Software and Technology Solutions'
     s.homepage          = 'https://barcloudapp.com/'
 
     s.author            = { 'Name' => 'kryptoswift@icloud.com' }

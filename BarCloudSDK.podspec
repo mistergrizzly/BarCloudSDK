@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
     s.summary           = 'BarCloudSD: Barcode Scanning Software and Technology Solutions'
     s.homepage          = 'https://barcloudapp.com/'
 
-    s.author            = { 'Name' => 'sales@barcloudapp.com' }
+    s.author            = { 'Name' => 'kryptoswift@icloud.com' }
     s.license           = { :type => 'Apache-2.0', :file => 'LICENSE' }
 
     s.platform          = :ios
